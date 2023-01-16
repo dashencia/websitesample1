@@ -90,6 +90,7 @@
   background: none;
   border: 1px solid white;
   max-width: 180px;
+cursor: pointer;
 }
 
 .button {
@@ -98,6 +99,7 @@
   line-height: 14px;
   text-transform: uppercase;
   padding: 18px 52px 20px;
+cursor: pointer;
 }
 
 body {
